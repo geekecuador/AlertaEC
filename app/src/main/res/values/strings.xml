@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Alerta EC</string>
+    <string name="title_activity_inicio_facebook">InicioFacebook</string>
+    <string name="facebook_app_id">534263916757731</string>
 </resources>
